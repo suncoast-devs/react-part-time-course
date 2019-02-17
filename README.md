@@ -1,4 +1,4 @@
-# Intro to Web Dev: Test driving how to be a web developer.
+# React I: Building Interactive Websites
 
 _6 weeks - 4 hours per week (24 hours total)_
 

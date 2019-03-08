@@ -29,14 +29,14 @@ During the course, students will have lab hours.
 
 Tuesday and Thursday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:30pm
 
-| Week # |      First Lecture       |        Second Lecture         | Possible Projects |
-| :----: | :----------------------: | :---------------------------: | :---------------: |
-|   1    |    Setting JS context    |       React Components        |                   |
-|   2    |         state i          |           state ii            |                   |
-|   3    | Component Best Practices | functional components & hooks |                   |
-|   4    |     React and APIs,      |           Practice            |                   |
-|   5    |           SPAs           |           Practice            |                   |
-|   6    |         Practice         |           Practice            |                   |
+| Week # |   First Lecture    |  Second Lecture  |          Possible Projects          |
+| :----: | :----------------: | :--------------: | :---------------------------------: |
+|   1    | Setting JS context | React Components | koans, octocat, party like its 1989 |
+|   2    |      state i       |       API        |   scoreboard, crytoticker, slider   |
+|   3    |    Memory Game     |     practice     |             minesweeper             |
+|   4    |       hooks        |     Practice     |  color picker again, army builder   |
+|   5    |        SPAs        |     Practice     |        simple site, hobbies         |
+|   6    |      Practice      |     Practice     |              Movie API              |
 
 ## Course Outline
 

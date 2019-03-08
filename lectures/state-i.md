@@ -38,7 +38,6 @@ https://github.com/suncoast-devs/cohort-xiii/tree/master/week-04/scoreboard/src
 
 - scoreboard
 - color slider
-- cryptoticker
 
 ## Additional Resources
 

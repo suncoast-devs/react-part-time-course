@@ -29,14 +29,14 @@ During the course, students will have lab hours.
 
 Tuesday and Thursday: 6:30pm - 8:30pm with an optional lab time from 5:30pm - 6:30pm
 
-| Week # |      First Lecture       |  Second Lecture  | Possible Projects |
-| :----: | :----------------------: | :--------------: | :---------------: |
-|   1    |    Setting JS context    | React Components |                   |
-|   2    |         state i          |     state ii     |                   |
-|   3    | Component Best Practices |     Practice     |                   |
-|   4    |     React and APIs,      |     Practice     |                   |
-|   5    |           SPAs           |     Practice     |                   |
-|   6    |         Practice         |     Practice     |                   |
+| Week # |      First Lecture       |        Second Lecture         | Possible Projects |
+| :----: | :----------------------: | :---------------------------: | :---------------: |
+|   1    |    Setting JS context    |       React Components        |                   |
+|   2    |         state i          |           state ii            |                   |
+|   3    | Component Best Practices | functional components & hooks |                   |
+|   4    |     React and APIs,      |           Practice            |                   |
+|   5    |           SPAs           |           Practice            |                   |
+|   6    |         Practice         |           Practice            |                   |
 
 ## Course Outline
 

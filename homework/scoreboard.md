@@ -29,4 +29,4 @@ For this assignment, you will be creating a simple interactive scoreboard for yo
 - [ ] Save/load the information to local storage.
 - [ ] Add CSS to the winning teams score to indicate who is currently winning.
 - [ ] Add anything else that your sport would have on its scoreboard (e.g. fouls, sacks, shots on goal, etc.).
-- [ ] Improve the UX to help to make scorekeeping by your sport easier.
+- [ ] Improve the UX to help to make score keeping by your sport easier.

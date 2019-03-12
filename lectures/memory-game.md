@@ -2,7 +2,7 @@
 
 In this lecture,we will push the bounds of basic react state by creating a memory game. This key to this lecture to work with passing functions down to the children that affect the parent state.
 
-This should be a two day lecture, with the minesweeper homework. Use this a vechile to answer questions about minesweeper.
+This should be a two day lecture, with the minesweeper homework. Use this a vehicle to answer questions about minesweeper.
 
 ## Learning Objectives
 

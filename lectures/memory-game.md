@@ -1,49 +1,39 @@
-# straight forward title
+# Memory game
 
-The elevator pitch for the lecture
+In this lecture,we will push the bounds of basic react state by creating a memory game. This key to this lecture to work with passing functions down to the children that affect the parent state.
+
+This should be a two day lecture, with the minesweeper homework. Use this a vechile to answer questions about minesweeper.
 
 ## Learning Objectives
 
-- A list of learning goals for this lecture
-- I.e., what should the student learn after experiencing this lecture
+- passing state around using props and closures
+- more state practice
 
 ## Recommended Previous Knowledge
 
-This is what concepts the student should be familiar with in order to benefit from this lecture.
+- working with state
+- components life cycle
 
 ## Slides
 
-(optional) Any slide show that goes along with this lecture
+- None
 
 ## Full Code Samples
 
-(recommended, probably required) Any and all complete code samples that will be created or walked through together during lecture
+- https://github.com/suncoast-devs/Lecture-Notes-Cohort-X/tree/master/unit%20ii%20-%20front%20end%20enginerring/memory/src
+- https://github.com/suncoast-devs/cohort-xiii/tree/master/week-05/memory-game
 
 ## Lecture notes
 
-- this is the meat and potatoes
-- Detailed explanation of the lecturer will say
-- Shouldn't be a script, but should include enough for someone familiar with the topic to pick up and run with it.
-- more than bullet points, less than a word for word script
+- this lecture you will build a memory game
+- for this, work with components and embrace the idea of components and reuses
+- take your time, this should take 2 lectures
+- use this as time to answers questions about minesweeper and to set up the students to succeed in minesweeper
 
-## Possible Assignments
+## Assignments
 
-- list and link to possible assignments to follow up the lecture
-- should include an 3 options. an 'easy', 'medium' 'hard' (i do not like those words)
-- 1 for if the students struggled to grasp
-- 1 for normal
-- 1 if the students really grasped the concept or need a challenge
-
-## Additional Resources
-
-- An (optional) list of resources related to the learning objectives, e.g. documentation, etc.
-
-## Recommended Practice:
-
-- An (optional) list of external practice resources a student might use to exercise these learning objectives further,
-  e.g. Codewars, Flexbox Froggy, etc.
+- minesweeper
 
 ## Next Lectures
 
-- What are some topics/ideas that would make for natural progress for the next lecture
-- either to start if every one 'gets it' or to act as a preview for what is to come
+- hooks

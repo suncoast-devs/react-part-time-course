@@ -25,6 +25,7 @@ In this lecture, the primary focus is working more with state
 
 - Start off by reviewing what they know of state,
 - build One-list, an API driven todo list
+- use this [http://one-list-api.herokuapp.com/](http://one-list-api.herokuapp.com/)
 - if the students feel good, do 'pop-corn' coding where a student live codes on the projector
 - start off with minimal design
 - build the HTML, caution about pre-refactoring into components too fast

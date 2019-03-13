@@ -21,7 +21,6 @@ Students should:
 
 https://slides.com/lizthrilla/react-week1
 
-
 ## Full Code Samples
 
 https://github.com/lizthrilla/react-course-notes/tree/master/week1/in-class-0312

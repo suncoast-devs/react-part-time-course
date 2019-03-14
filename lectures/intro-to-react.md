@@ -19,22 +19,17 @@ Students should:
 
 ## Slides
 
-https://slides.com/markdewey-1/intro-to-reactwhat-is-react#/
-
-## Sample video
-
-https://www.youtube.com/watch?v=Ih6CSKYwgyc&t=0s&list=PLyKTFNBDP80AIhGtCARUYralbLmjeQ0iD&index=12
+https://slides.com/lizthrilla/react-week1
 
 ## Full Code Samples
 
-https://github.com/suncoast-devs/cohort-xiii/tree/master/week-04/intro-to-react
+https://github.com/lizthrilla/react-course-notes/tree/master/week1/in-class-0312
 
 ## Lecture notes
 
 - go through the slides.
 - focus on the ideas behind react (functional, declaritive, modular)
 - walk through a simple React class
-- _break_
 - pick a theme, the code samples use super heros, but pick something for you to create
 - starting with `app-app` GAMMA stack, creat a new react app.
 - walk through parts of app
@@ -47,10 +42,9 @@ https://github.com/suncoast-devs/cohort-xiii/tree/master/week-04/intro-to-react
 - add a few of those
 - then add a property
 
-## Possible Assignments
+## Assignments
 
-- Octocats
-- Party like its 1989
+- [Octocats]: (https://github.com/suncoast-devs/react-part-time-course/blob/master/homework/octocats.md)
 
 ## Additional Resources
 
@@ -60,6 +54,7 @@ https://github.com/suncoast-devs/cohort-xiii/tree/master/week-04/intro-to-react
 
 ## Recommended Practice:
 
+- [Javascript Review](https://github.com/suncoast-devs/react-part-time-course/blob/master/lectures/reviewing-javascript.md)
 - pick a website and re-create it using components
 
 ## Next Lectures

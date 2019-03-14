@@ -6,7 +6,7 @@ For this assignment, you will be creating a simple interactive scoreboard for yo
 
 - Refer to this mockup to design your page:
 
-![](./assets/scoreboard.png)
+[ScoreBoard Mock Up](https://raw.githubusercontent.com/suncoast-devs/handbook/master/curriculum/fundamentals/javascript/assignments/assets/scoreboard.png)
 
 - Use the HTML and CSS [here](https://gist.github.com/mdewey/d331c0a449b8e53b4adc472ec0e5a1e8) to jump-start your project.
 - A user should be able to update a score and the teams playing.

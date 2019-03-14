@@ -2,7 +2,7 @@
 
 ## Create React App
 
-- set up `create-react-app my-react-app`
+- `create-react-app my-react-app`
 
 ## App-app
 

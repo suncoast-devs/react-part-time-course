@@ -9,10 +9,11 @@ In this lecture, the students will be introduced to the concept of state and how
 - pass data from state of parent to the child of a children
 - state is immutable
 - how to listen for events in React
+- create-react-app
 
 ## Recommended Previous Knowledge
 
-a student show be able to:
+a student should be able to:
 
 - define a react component
 - use props that been passed to the component
@@ -45,6 +46,10 @@ https://github.com/suncoast-devs/cohort-xiii/tree/master/week-04/scoreboard/src
 
 - scoreboard
 - color slider
+
+## Actual Assignment
+
+- [ScoreBoard](https://github.com/suncoast-devs/react-part-time-course/blob/master/homework/scoreboard.md)
 
 ## Additional Resources
 
